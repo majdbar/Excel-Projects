@@ -1,2 +1,2 @@
 # Excel-Projects
- Data Analysis projects using Excil
+ Data Analysis projects using Excel
